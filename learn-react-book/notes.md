@@ -9,3 +9,5 @@ https://github.com/moonhighway/learning-react
     To install a package -- `npm install [package-name]`.
     To remove a package -- `npm remove [package-name]`.
 
+### Useful articles 
+- Explaining hoisting in normal functions and arrow functions --> https://medium.com/@aswinrockz10/scope-difference-between-normal-functions-and-arrow-functions-c21dfb63e1bc
